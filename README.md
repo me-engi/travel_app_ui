@@ -17,7 +17,8 @@ To run this app, follow these steps:
 5. Run the app using the `flutter run` command.
 
 ## Screenshots
-[![Screenshot 1](https://drive.google.com/file/d/15X3pnk-y5HZyMDPC-wQNzPGknoDkAtpw/view?usp=sharing)]
+![Screenshot 1]()
+
 
 
 
